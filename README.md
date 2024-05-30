@@ -1,6 +1,6 @@
-# tour_app
+# RoamMate
 
-A new Flutter project.
+A sleek and responsive user interface using Flutter, ensuring a smooth and engaging user experience across various devices.
 
 ## Getting Started
 
